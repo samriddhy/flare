@@ -1,0 +1,20 @@
+
+# Python virtual environments
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Sensitive environment files
+.env
+.env.*
+!.env.example
+
+# Raw datasets
+data/raw/
+
+# Generated outputs
+output/
